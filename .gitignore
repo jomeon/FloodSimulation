@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+out/
+build/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.opensdf
+*.sdf
+
+# Skompilowane pliki
+*.exe
+*.o
+*.obj
+
+# Wyniki symulacji
+wyniki.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
