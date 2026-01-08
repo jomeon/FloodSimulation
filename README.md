@@ -9,6 +9,9 @@ This project simulates river flow mechanics and flood phenomena on a 2D grid rep
 * **Risk Analysis:** Calculates a flood risk coefficient (0.0 - 1.0) based on channel capacity.
 * **Visualization:** Generates heatmaps for terrain height, water distribution, and flood risk using `matplotlib` and `seaborn`.
 
+## Simulation Visualization
+![Example Result](FloodSimulation/figure_example.png)
+
 ## 🛠️ Requirements
 
 ### C++ (Simulation Core)
